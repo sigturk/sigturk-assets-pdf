@@ -1,0 +1,3 @@
+= SIGTURK Assets in PDF Format
+
+Check individual directories and files for licensing matters.
